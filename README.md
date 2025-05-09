@@ -10,7 +10,7 @@ API.
 
 ## Setup Instructions
 1. Clone the repo:
-   git clone <your-repo-link>
+   git clone https://github.com/MohsinP07/article_app.git
    cd flutter_article_app
    flutter pub get
    flutter run
